@@ -1,6 +1,7 @@
 # Shopping-Cart-VanillaJS 🚀
 A luxury watch e-commerce modern website with a shopping cart technology 
 * created using Vanilla JavaScript, HTML, CSS
+* designed by myself 💙
 
 
 ![watchriv-5](https://user-images.githubusercontent.com/84794517/212445880-c901ab2a-d0b5-44d4-be29-5b23f9bca8d2.jpg)
